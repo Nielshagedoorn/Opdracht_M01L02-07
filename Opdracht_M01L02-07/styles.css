@@ -1,0 +1,83 @@
+body {
+color: #000099;
+background-color: #e6e6ff;
+font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+font-size: 14px;
+font-style: italic;
+margin: 25px 30px 25px 30px;
+}
+
+header {
+    margin: 90px auto;
+    padding: 10px 30px 10px 30px;
+    border: 3px solid #33334D;
+}
+
+main {
+    margin: 10px;
+    padding: 10px 30px 10px 30px;
+    border: 3px solid #5c5c8a;
+}
+
+p {
+    margin: 15px;
+    font-size: 12px;
+}
+
+h2 {
+    margin: 15px;
+}
+
+h3 {
+    margin: 15px;
+}
+
+
+.border1 {
+    border-radius: 150px;
+    border: 5px solid darkturquoise;
+    font-size: 10px ;
+    padding: 30px;    
+}
+
+.border2 {
+    border-radius: 150px;
+    border: 5px solid deepskyblue;
+    font-size: 10px ;
+    padding: 30px;
+}
+.border3 {
+    border-radius: 150px;
+    border: 5px solid dodgerblue;
+    font-size: 10px ;
+    padding: 30px;
+}
+.border4 {
+    border-style: double; 
+    border-color:  yellowgreen dodgerblue;
+    font-size: 16px ;
+    padding: 30px;
+}
+.quote {
+    font-size: 72px; 
+    font-style: oblique;
+    font-family: palace script mt, Lucida Grande, sans-serif;
+}
+
+.quote1 { 
+font-size: 72px; 
+font-style: oblique;
+font-family: palace script mt, Lucida Grande, sans-serif;
+}
+
+#blue-background {
+    background-color:#c2c2d6 ;
+    opacity: 0.8;
+    font-size: 25px;
+    font-style: oblique;
+       }
+
+#opsomming-vertikaal li {
+    display: inline;
+
+}
